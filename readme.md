@@ -11,11 +11,11 @@ USGS download utility:<br>
 
 ###
 
-Dependancies:
--tensorflow
--rasterio
--opencv-python
--pandas
--numpy
+Dependancies:<br>
+-tensorflow<br>
+-rasterio<br>
+-opencv-python<br>
+-pandas<br>
+-numpy<br>
 
 
